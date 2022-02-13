@@ -1,5 +1,5 @@
 # autodeploy
-Python auto deploy for Fastapi
+Python auto deploy for servicesapi
 ## Pre-installation
 ```bash
 sudo pacman -S caddy
